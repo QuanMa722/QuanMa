@@ -1,4 +1,4 @@
-## A learner with research interests in big data, data science, and public opinion analysis
+### Hi there 👋
 
 <!--
 **DW62/DW62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
