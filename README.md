@@ -1,5 +1,5 @@
 
-## A learner with research interests in text mining and public opinion analysis.
+## Research Interests: Text Mining and Public Opinion Big Data
 
 
 <picture>
