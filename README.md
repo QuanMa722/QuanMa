@@ -1,5 +1,4 @@
 ***
-## Skills: Crawling skills based on python and javascript
 ## Research Interests: Text Mining and Public Opinion Big Data
 
 
