@@ -1,5 +1,5 @@
 ***
-## Research Interests: Text Mining and Public Opinion Big Data
+## Occupational Skills: Data Acquisition and Data Mining
 
 
 <picture>
