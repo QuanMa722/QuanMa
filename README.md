@@ -1,5 +1,5 @@
 ***
-# Better than the last one!
+# Better than the last time!
 ## Occupational Skills: Data Acquisition and Data Mining
 
 
